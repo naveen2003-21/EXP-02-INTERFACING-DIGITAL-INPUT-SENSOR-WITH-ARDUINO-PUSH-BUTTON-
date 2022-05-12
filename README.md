@@ -99,3 +99,5 @@ Output of the simulation :
 
 ![My image](c.jpg)
 
+## result:
+Thus the given interfacing a digital input and blink LED is sucessfully done through tinker CAD
